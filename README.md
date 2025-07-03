@@ -1,1 +1,1 @@
-# Mcdonald-vs-Burger-king-PyShiny
+# Mcdonald vs Burger King
